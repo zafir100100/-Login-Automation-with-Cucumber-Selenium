@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/29010350/204713810-80648321-7087-4cbe-
 
 ### Report
 cucumber-report
-![Screenshot (77)](https://github.com/zafir100100/Login-Automation-Cucumber-Selenium/blob/master/assets/screenshots/cucumber-report.PNG)
+![Screenshot (77)](https://github.com/zafir100100/Login-Automation-with-Cucumber-Selenium/blob/master/assets/screenshots/cucumber-report.PNG)
 
 ### Report Link
 https://drive.google.com/file/d/1ieXcll94QzJF5LXYMrtQ4Z57uh1F6N3M/view?usp=share_link
