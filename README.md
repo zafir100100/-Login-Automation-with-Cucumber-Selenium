@@ -3,27 +3,25 @@
 ### Video Output
 https://user-images.githubusercontent.com/29010350/204713810-80648321-7087-4cbe-894a-eb922b235799.mp4
 
-### Description
-- Login to https://opensource-demo.orangehrmlive.com website with invalid email and password.
+## Project Scenerio:
 
-### Tools,Framework and Language
+- site URL: https://opensource-demo.orangehrmlive.com
+- Login with Invalid Credentials 
+- Login with Valid Credentials
+
+## Technology used:
+
 - Selenium
 - Cucumber
-- Cucumber-java, Junit, io.cumcumber, maven-cucumber-reporting
+- Java
+- Junit
+- Maven
 - Intellij IDEA
-- Java, Gherkins
 
-### How to run the project
-#### Prerequisite
-- Intellij IDEA or any java IDE
-- Configure JAVA_HOME and MAVEN_HOME  
-  
-### Steps to run
-- Clone the repo
-- Give command in root directory
-  - mvn clean test <br />
-  Or, 
-  - mvn clean install
+## How to run this project:
+
+- Clone this project
+- hit the following command: ```mvn clean test / mvn clean install```
 
 
 ### Report
